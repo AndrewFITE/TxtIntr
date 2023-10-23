@@ -1,9 +1,5 @@
 *.o
 
-*.pyc
-
-*.class
-
 *.log
 
 *.lock
